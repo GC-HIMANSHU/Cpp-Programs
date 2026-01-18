@@ -6,6 +6,7 @@ int main() {
     cout << "Enter a character: ";
     cin >> ch;
 
-    cout << "The ASCII value of " << ch << " is " << int(ch) << endl;
+    cout << "The ASCII value of Alphabets" << ch << " is " << int(ch) << endl;
     return 0;
+    
 }
